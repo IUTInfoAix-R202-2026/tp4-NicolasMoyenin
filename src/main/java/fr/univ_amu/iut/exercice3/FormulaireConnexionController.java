@@ -29,7 +29,6 @@ public class FormulaireConnexionController {
   @FXML
   private void initialize() {
     // TODO exercice 3 : brancher la vue sur le ViewModel.
-    //
     // - champIdentifiant <-> identifiantProperty (bidirectionnel)
     // - champMotDePasse <-> motDePasseProperty (bidirectionnel)
     // - labelStatut <- statutProperty (sens unique)
